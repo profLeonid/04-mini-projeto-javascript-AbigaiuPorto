@@ -123,3 +123,17 @@ footer p {
   text-align: center;
   padding: 1rem;
 }
+
+
+.Aprovado {
+  background-color: #14532d;
+}
+.Recuperação{
+
+  background-color:#713f12 ;
+}
+
+.Reprovado{
+  
+ background-color: #7f1d1d;
+}

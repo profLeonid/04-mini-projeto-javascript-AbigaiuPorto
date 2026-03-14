@@ -109,6 +109,24 @@ button:hover {
   justify-content: center;
 }
 
+.desconto1{
+
+  border: #14532d;
+  box-shadow: 0 0 16px  #14532d;
+  background-color:  #14532d;
+}
+
+.desconto2{
+  border:  #713f12;
+  box-shadow: 0 0 16px  #713f12;
+  background-color: #713f12;
+}
+
+.desconto3{
+  box-shadow: 0 0 16px  #7f1d1d;
+  border: #7f1d1d;
+  background-color:  #7f1d1d;
+}
 footer {
   display: flex;
   align-items: flex-end;
